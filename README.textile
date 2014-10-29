@@ -1,0 +1,3 @@
+This scraper finds planning decisions made by Liverpool City council over the last 7 days and geolocates them. It feeds the GoogleMap view. 
+
+It's updated daily
